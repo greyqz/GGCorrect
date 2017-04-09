@@ -6,9 +6,9 @@ Au: GG
 
 How to use:
 
-1.  create a folder ¡°F:\GGCorrect\¡± and open it.
+1.  create a folder "F:\GGCorrect\" and open it.
 
-2.	put all files in it. Make sure these files are all named as ¡°<file name>.txt¡±.
+2.	put all files in it. Make sure these files are all named as "<file name>.txt".
 
 3.	and the files will be changed.
 
