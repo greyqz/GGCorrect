@@ -4,13 +4,19 @@
 
 Au: GG
 
-How to use:
+## How to use
 
 1.  create a folder "F:\GGCorrect\" and open it.
 
 2.	put all files in it. Make sure these files are all named as "<file name>.txt".
 
 3.	and the files will be changed.
+
+------------------------------------------
+
+## Tip
+
+The original file uses UTF-8 encoding. Please convert to GBK for Chinese charater output.
 
 ------------------------------------------
 
