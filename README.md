@@ -1,31 +1,16 @@
-# READ ME
+# GGCorrect
 
-**GGCorrect**
-
-Au: GG
-
-## How to use
+## Usage
 
 1.  create a folder "F:\GGCorrect\" and open it.
-
 2.	put all files in it. Make sure these files are all named as "<file name>.txt".
-
 3.	and the files will be changed.
 
-------------------------------------------
-
-## Tip
-
+## Encoding
 The original file uses UTF-8 encoding. Please convert to GBK for Chinese charater output.
 
-------------------------------------------
 
-**For Rose**
+## Reference
 
-------------------------------------------
-
-**Thanks:**
-
-Thanks to http://bbs.csdn.net/topics/80416661
-
-Thanks to http://blog.csdn.net/crazyer2010/article/details/9063847
+1. http://bbs.csdn.net/topics/80416661
+2. http://blog.csdn.net/crazyer2010/article/details/9063847
